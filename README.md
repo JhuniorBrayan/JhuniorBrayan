@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://www.jhuniobrayan.dev"><img src="https://img.shields.io/badge/-jhuniobrayan.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/jhunior-brayan-picon-huaman"><img src="https://img.shields.io/badge/-Jhunior%20Brayan%20Picon-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/jhunior-brayan-picon-huaman-7208852a3"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:corvinobrayan@gmail.com"><img src="https://img.shields.io/badge/-corvinobrayan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
