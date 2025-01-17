@@ -28,13 +28,9 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.jhuniobrayan.dev"><img src="https://img.shields.io/badge/-jhuniobrayan.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/jhunior-brayan-picon-huaman-7208852a3/"><img src="https://img.shields.io/badge/-Jhunior%20Brayan%20Picón-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:corvinobrayan@gmail.com"><img src="https://img.shields.io/badge/-corvinobrayan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
 
 -----
