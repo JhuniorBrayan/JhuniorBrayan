@@ -5,6 +5,11 @@
 
 <p align="center">
 
+<p align="center">
+  Soy un desarrollador de software apasionado por crear soluciones eficientes y escalables. 
+  Con experiencia en Python y frameworks modernos, mi enfoque está en el desarrollo web y el análisis de datos.
+</p>
+
 ## 🎓 Educación y Certificaciones
 
 - **2024-2025**: **TOKIO SCHOOL, España** - Certificación **PCAP: Programación Python**
