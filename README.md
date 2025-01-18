@@ -1,7 +1,6 @@
 ## Hi there, I'm Jhunior  👋
 
-https://github.com/JhuniorBrayan/JhuniorBrayan/issues/1#issue-2796572572
-
+![Image](https://github.com/user-attachments/assets/4cf15770-dbd8-45a5-84bb-d0632a0ba2da)
 
 **JhuniorBrayan/JhuniorBrayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
