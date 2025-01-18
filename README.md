@@ -1,4 +1,4 @@
-## Hi there, I'm Jhunior  👋
+# Hola, mi nombre es Jhunior Brayan 👋
 ### Desarrollador de software
 
 ![Image](https://github.com/user-attachments/assets/4cf15770-dbd8-45a5-84bb-d0632a0ba2da)
