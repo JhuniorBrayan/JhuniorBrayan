@@ -5,6 +5,11 @@
 
 <p align="center">
 
+## 🎓 Educación y Certificaciones
+
+- **2024-2025**: **TOKIO SCHOOL, España** - Certificación **PCAP: Programación Python**
+
+
 ## Habilidades Técnicas
 
 - **Lenguajes de programación**:
