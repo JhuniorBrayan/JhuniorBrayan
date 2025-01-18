@@ -1,7 +1,7 @@
 # Hola, mi nombre es Jhunior Brayan 👋
 ### Desarrollador de software
 
-![Image](https://github.com/user-attachments/assets/4cf15770-dbd8-45a5-84bb-d0632a0ba2da)
+![Image](https://github.com/user-attachments/assets/edd33e2f-1bde-4652-92e9-554ed6b7cd4a)
 
 **JhuniorBrayan/JhuniorBrayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
