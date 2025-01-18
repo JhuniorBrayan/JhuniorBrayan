@@ -77,8 +77,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-
-- **Connect with Me**:
   <a href="https://www.jhuniobrayan.dev">
     <img src="https://img.shields.io/badge/-Website-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website">
   </a>
