@@ -10,6 +10,12 @@
   Con experiencia en Python y frameworks modernos, mi enfoque está en el desarrollo web y el análisis de datos.
 </p>
 
+<p align="center">
+  <a href="https://mi-enlace.com/curriculum.pdf" download>
+    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
+  </a>
+</p>
+
 ## 🎓 Educación y Certificaciones
 
 - **2024-2025**: **TOKIO SCHOOL, España** - Certificación **PCAP: Programación Python**
