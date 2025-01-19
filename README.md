@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://mi-enlace.com/curriculum.pdf](https://github.com/JhuniorBrayan/JhuniorBrayan/blob/main/curriculum-JB-2025-v1.pdf)" download>
+  <a href="https://github.com/JhuniorBrayan/JhuniorBrayan/blob/main/curriculum-JB-2025-v1.pdf" download>
     <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
 </p>
